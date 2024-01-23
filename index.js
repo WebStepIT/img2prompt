@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const port = 8080;//you can choose any port 
+const port = 3307;//you can choose any port 
 const dotenv = require('dotenv');
 dotenv.config();
 const Replicate = require("replicate");
